@@ -1,0 +1,23 @@
+{
+  "name": "node-starter",
+  "version": "1.0.0",
+  "description": "Node Scaffold",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "export NODE_ENV=test && jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/koopcodes/node-starter.git"
+  },
+  "keywords": [
+    "node",
+    "koop"
+  ],
+  "author": "koop",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/koopcodes/node-starter/issues"
+  },
+  "homepage": "https://github.com/koopcodes/node-starter#readme"
+}
